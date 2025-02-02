@@ -164,6 +164,25 @@ label{
     z-index: 10;
     background-color: rgb(121, 47, 50);
 }
+#color-1{
+    background-image: url("./modern chair/modern chair/images/color1.jpg");
+}
+#color-2{
+    background-image: url("./modern chair/modern chair/images/color2.jpg");
+}
+#color-3{
+    background-image: url("./modern chair/modern chair/images/color3.jpg");
+}
+#color-4{
+    background-image: url("./modern chair/modern chair/images/color4.jpg");
+}
+#color-5{
+    background-image: url("./modern chair/modern chair/images/color5.jpg");
+}
+#color-6{
+    background-image: url("./modern chair/modern chair/images/color6.jpg");
+}
+
 
 
 
